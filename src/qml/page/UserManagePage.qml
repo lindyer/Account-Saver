@@ -187,10 +187,21 @@ QControls14.TableView {
                     ToolTip.text: "更新"
                 }
                 Image {
-                    width: 20
+                    width: {
+                        if(_listModel.get(styleData.row) != undefined) {
+                            return _listModel.get(styleData.row).permission !== 0 ?  20 : 0
+                        }
+                        return 0
+                    }
                     height: 20
                     source: "qrc:/resource/images/delete.png"
                     sourceSize: Qt.size(width,height)
+                    visible: {
+                        if(_listModel.get(styleData.row) != undefined){
+                            return _listModel.get(styleData.row).permission !== 0
+                        }
+                        return false
+                    }
                     MouseArea {
                         id: _deleteMouseArea
                         anchors.fill: parent
