@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qtquickcontrols2.conf</file>
+        <file>src/qml/page/MainPage.qml</file>
+        <file>resource/images/commit.png</file>
+        <file>resource/images/copy.png</file>
+        <file>resource/images/delete.png</file>
+        <file>resource/images/hide_password.png</file>
+        <file>resource/images/link.png</file>
+        <file>resource/images/refresh.png</file>
+        <file>resource/images/show.png</file>
+        <file>src/qml/main.qml</file>
+        <file>src/qml/common/Prompt.qml</file>
+        <file>src/qml/common/Tip.qml</file>
+        <file>src/qml/common/Movable.qml</file>
+        <file>src/qml/common/IconButton.qml</file>
+        <file>resource/images/close_hovered.png</file>
+        <file>resource/images/close_unhovered.png</file>
+        <file>resource/images/max_unhovered.png</file>
+        <file>resource/images/min_hovered.png</file>
+        <file>resource/images/min_unhovered.png</file>
+        <file>resource/images/max_hovered.png</file>
+        <file>src/qml/common/Global.qml</file>
+        <file>src/qml/common/qmldir</file>
+        <file>src/qml/Test.qml</file>
+        <file>src/qml/common/SideButton.qml</file>
+        <file>src/qml/common/ContentView.qml</file>
+        <file>src/qml/page/LoginPage.qml</file>
+        <file>resource/images/new_hovered.png</file>
+        <file>resource/images/new_unhovered.png</file>
+        <file>src/qml/page/AddAccountPage.qml</file>
+        <file>src/qml/page/FunctionExtensionPage.qml</file>
+        <file>src/qml/page/AccountManagePage.qml</file>
+        <file>resource/images/record.png</file>
+        <file>src/qml/common/KeyRecord.qml</file>
+        <file>src/qml/js/utils.js</file>
+        <file>src/qml/page/BaseLoginPage.qml</file>
+        <file>resource/images/return_hovered.png</file>
+        <file>resource/images/return_unhovered.png</file>
+        <file>resource/images/expand.png</file>
+        <file>src/qml/page/UserManagePage.qml</file>
+    </qresource>
+</RCC>
