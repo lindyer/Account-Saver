@@ -5,7 +5,7 @@
 
 屏幕快照
 
-![screenshot](.\resource\screenshot\TIM图片20170710235516.png)
+![screenshot](https://github.com/lindyer/Account-Saver/blob/master/resource/screenshot/TIM%E5%9B%BE%E7%89%8720170710235516.png)
 
 
 
