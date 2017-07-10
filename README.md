@@ -9,12 +9,12 @@
 
 
 
-![TIM图片20170710235615](.\resource\screenshot\TIM图片20170710235615.png)
+![TIM图片20170710235615](https://github.com/lindyer/Account-Saver/blob/master/resource/screenshot/TIM%E5%9B%BE%E7%89%8720170710235615.png)
 
 
 
-![TIM图片20170710235645](.\resource\screenshot\TIM图片20170710235645.png)
+![TIM图片20170710235645](https://github.com/lindyer/Account-Saver/blob/master/resource/screenshot/TIM%E5%9B%BE%E7%89%8720170710235645.png)
 
 
 
-![TIM图片20170710235710](.\resource\screenshot\TIM图片20170710235710.png)
+![TIM图片20170710235710](https://github.com/lindyer/Account-Saver/blob/master/resource/screenshot/TIM%E5%9B%BE%E7%89%8720170710235710.png)
